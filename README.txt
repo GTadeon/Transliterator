@@ -1,3 +1,6 @@
+[screnshots]
+https://github.com/GTadeon/Transliterator/wiki
+
 TRANSLITERATOR.exe fajl se nalazi u dist folderu. Njega treb pokrenuti.
 
 Transliterator je program koji prevodi uneseni tekst na glagoljicu. Program nije zamisljen kao nesto sto prevodi velike
